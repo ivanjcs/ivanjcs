@@ -1,3 +1,4 @@
+
 <div align="left">
   🌐 <a href="#english">English</a> &bull; 🇦🇷 <a href="#español">Español</a>
 </div>
@@ -21,13 +22,20 @@ Currently in my 5th year of Systems Engineering, focusing on resource optimizati
 
 ### 📌 [Strategic & Tactical Dashboards - SaaS & Marketing ROI](https://github.com/ivanjcs/House-Prices-Prediction-End-to-End-ML-Architecture.git)
 *   **The Context:** Hidden costs and inefficient marketing spend were causing margin erosion across client segments.
-*   **The Solution:** Engineered robust Star Schema models and advanced DAX algorithms in Power BI, integrating Gestalt principles to drastically reduce user cognitive load.
-*   **Actionable Insight:** Identified "value-destroying" customer segments and diagnosed exact leaks in Marketing ROI (CAC/ROAS), allowing executives to reallocate budget toward high-LTV accounts.
+*   **The Solution:** Engineered robust Star Schema models and advanced DAX algorithms in Power BI utilizing AWS sales data. Applied Gestalt principles, using targeted scatter plots and bullet charts to drastically reduce user cognitive load.
+*   **Actionable Insight:** Diagnosed exact leaks in Marketing ROI (CAC/ROAS) and identified "value-destroying" customer segments, allowing executives to reallocate budget toward high-LTV accounts.
 
 ### 📌 [AI-Driven Inventory Management](https://github.com/ivanjcs/Gestion-de-inventario-con-IA.git)
 *   **The Context:** Supply chains face a constant dilemma: capital tied up in overstock versus revenue lost due to stockouts.
 *   **The Solution:** Developed a discrete event simulation framework comparing traditional supply heuristics against predictive ML replenishment models.
 *   **Actionable Insight:** Proved that switching to AI-driven forecasting reduces holding costs while maintaining a 99% service level, shifting inventory from a cost center to a competitive advantage.
+
+### 📌 [Campings Gestion System](https://github.com/ISI-ProyectoFinal-2026/Grupo8.git)
+- **The Context**: Manual entry systems cause delays and operational bottlenecks for facilities like clubs and camping sites.
+
+- **The Solution**: Developing a full-stack Minimum Viable Product integrating QR-based access protocols and Mercado Pago APIs for seamless entry and payment processing.
+
+- **Actionable Insight**: Modernizes facility logistics by digitizing revenue tracking and completely eliminating manual entry queues.
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +47,7 @@ Currently in my 5th year of Systems Engineering, focusing on resource optimizati
 
 *   💼 [LinkedIn](https://www.linkedin.com/in/ivanjcs/)
 *   📧 [Email](mailto:ivancastro.dev@gmail.com)
-*   💻 [Upwork / Portfolio]()
+*   💻 [Portfolio]()
 
 ---
 
@@ -60,13 +68,20 @@ Actualmente curso el 5to año de Ingeniería en Sistemas, con foco en optimizaci
 
 ### 📌 [Dashboards Estratégicos - SaaS y ROI de Marketing](https://github.com/ivanjcs/House-Prices-Prediction-End-to-End-ML-Architecture.git)
 *   **El Problema:** Costos ocultos y gasto ineficiente en publicidad provocaban la erosión de los márgenes de ganancia.
-*   **La Solución:** Construí modelos en Esquema Estrella y algoritmos DAX avanzados en Power BI, aplicando principios de Gestalt para reducir drásticamente la carga cognitiva del usuario.
-*   **Información Accionable:** Identificación exacta de segmentos de clientes que destruían valor financiero y detección de fugas en el ROI de marketing (CAC/ROAS), permitiendo a la dirección reasignar presupuesto hacia cuentas de alto valor (LTV).
+*   **La Solución:** Construí modelos en Esquema Estrella y algoritmos DAX avanzados en Power BI utilizando datos de ventas de AWS. Apliqué principios de Gestalt, usando gráficos de dispersión y bullet charts para reducir drásticamente la carga cognitiva del usuario.
+*   **Información Accionable:** Detección de fugas exactas en el ROI de marketing (CAC/ROAS) e identificación de segmentos de clientes destructores de valor, permitiendo a la dirección reasignar presupuesto hacia cuentas de alto valor (LTV).
 
 ### 📌 [Gestión de Inventario Impulsada por IA](https://github.com/ivanjcs/Gestion-de-inventario-con-IA.git)
 *   **El Problema:** Las cadenas de suministro enfrentan un dilema constante: capital atrapado por exceso de stock vs. ventas perdidas por quiebres de stock.
 *   **La Solución:** Desarrollé un entorno de simulación de eventos discretos para comparar heurísticas tradicionales de reposición contra modelos predictivos de Machine Learning.
 *   **Información Accionable:** Demostración empírica de cómo el pronóstico con IA reduce los costos de almacenamiento manteniendo un nivel de servicio del 99%, transformando el inventario de un centro de costos a una ventaja competitiva.
+
+### 📌 [Sistema de gestion de campings](https://github.com/ISI-ProyectoFinal-2026/Grupo8.git)
+- **El Problema**: Los sistemas de ingreso manual causan demoras y cuellos de botella operativos en instalaciones como clubes y campings.
+
+- **La Solución**: Desarrollo de un Producto Mínimo Viable integrando protocolos de acceso basados en códigos QR y la API de Mercado Pago para procesar ingresos y pagos sin fricción.
+
+- **Información Accionable**: Modernización de la logística de las instalaciones, digitalizando el seguimiento de ingresos y eliminando por completo las filas de espera manuales.
 
 ## 🛠️ Stack Tecnológico
 
@@ -78,4 +93,5 @@ Actualmente curso el 5to año de Ingeniería en Sistemas, con foco en optimizaci
 
 *   💼 [LinkedIn](https://www.linkedin.com/in/ivanjcs/)
 *   📧 [Email](mailto:ivancastro.dev@gmail.com)
-*   💻 [Upwork / Portfolio]()
+*   💻 [Portfolio]()
+
