@@ -1,5 +1,5 @@
-<div align="right">
-  <a href="#english">🇬🇧 English</a> | <a href="#español">🇦🇷 Español</a>
+<div align="left">
+  🌐 <a href="#english">English</a> &bull; 🇦🇷 <a href="#español">Español</a>
 </div>
 
 ---
