@@ -20,7 +20,7 @@ Currently in my 5th year of Systems Engineering, focusing on resource optimizati
 *   **The Solution:** Built a production-ready predictive engine using XGBoost and Bayesian Optimization (Optuna). Designed clean data pipelines in BigQuery via dbt and deployed low-latency inference endpoints with FastAPI.
 *   **Actionable Insight:** Automated pricing workflows, reducing appraisal errors and enabling real-time market-value indexing for strategic asset acquisition.
 
-### 📌 [Strategic & Tactical Dashboards - SaaS & Marketing ROI](https://github.com/ivanjcs/House-Prices-Prediction-End-to-End-ML-Architecture.git)
+### 📌 [Strategic & Tactical Dashboards - SaaS & Marketing ROI](https://github.com/ivanjcs/-Strategic-Tactical-Dashboards---SaaS-Marketing-ROI.git)
 *   **The Context:** Hidden costs and inefficient marketing spend were causing margin erosion across client segments.
 *   **The Solution:** Engineered robust Star Schema models and advanced DAX algorithms in Power BI utilizing AWS sales data. Applied Gestalt principles, using targeted scatter plots and bullet charts to drastically reduce user cognitive load.
 *   **Actionable Insight:** Diagnosed exact leaks in Marketing ROI (CAC/ROAS) and identified "value-destroying" customer segments, allowing executives to reallocate budget toward high-LTV accounts.
@@ -66,7 +66,7 @@ Actualmente curso el 5to año de Ingeniería en Sistemas, con foco en optimizaci
 *   **La Solución:** Diseñé un motor predictivo listo para producción usando XGBoost y Optimización Bayesiana (Optuna). Modelé pipelines limpios en BigQuery con dbt y desplegué endpoints de inferencia con FastAPI.
 *   **Información Accionable:** Automatización del flujo de tasación, reduciendo el error humano y permitiendo indexar valores de mercado en tiempo real para decisiones de compra estratégicas.
 
-### 📌 [Dashboards Estratégicos - SaaS y ROI de Marketing](https://github.com/ivanjcs/House-Prices-Prediction-End-to-End-ML-Architecture.git)
+### 📌 [Dashboards Estratégicos - SaaS y ROI de Marketing](https://github.com/ivanjcs/-Strategic-Tactical-Dashboards---SaaS-Marketing-ROI.git)
 *   **El Problema:** Costos ocultos y gasto ineficiente en publicidad provocaban la erosión de los márgenes de ganancia.
 *   **La Solución:** Construí modelos en Esquema Estrella y algoritmos DAX avanzados en Power BI utilizando datos de ventas de AWS. Apliqué principios de Gestalt, usando gráficos de dispersión y bullet charts para reducir drásticamente la carga cognitiva del usuario.
 *   **Información Accionable:** Detección de fugas exactas en el ROI de marketing (CAC/ROAS) e identificación de segmentos de clientes destructores de valor, permitiendo a la dirección reasignar presupuesto hacia cuentas de alto valor (LTV).
