@@ -1,4 +1,3 @@
-
 <div align="left">
   🌐 <a href="#english">English</a> &bull; 🇦🇷 <a href="#español">Español</a>
 </div>
@@ -14,6 +13,11 @@ I don't just build models; I translate complex data into **profitable business d
 Currently in my 5th year of Systems Engineering, focusing on resource optimization, logistics, and corporate profitability.
 
 ## 🚀 Featured Projects (Insights & Actions)
+
+### 📌 [AWS Fraud Detection ML Pipeline - Serverless Data Engineering](https://github.com/ivanjcs/AWS-Fraud-Detection-ML-Pipeline)
+*   **The Context:** Credit card fraud represents a massive financial drain, but detecting it is notoriously difficult due to extreme class imbalance (0.17% fraud) and the risk of data leakage when processing large-scale datasets.
+*   **The Solution:** Engineered a Serverless Machine Learning pipeline on AWS using Terraform (IaC). Built a Medallion Architecture S3 Data Lake and utilized AWS Glue (PySpark) for distributed ETL, implementing deterministic stratified splitting and native cost-sensitive learning for XGBoost.
+*   **Actionable Insight:** Delivers a highly scalable, reproducible fraud detection engine that accurately identifies anomalies without local memory bottlenecks, minimizing financial losses while maximizing cloud cost-efficiency.
 
 ### 📌 [House Prices Prediction - End-to-End ML Architecture](https://github.com/ivanjcs/House-Prices-Prediction-End-to-End-ML-Architecture.git)
 *   **The Context:** Real estate valuation suffers from high volatility and manual bias, leading to mispriced assets.
@@ -32,15 +36,13 @@ Currently in my 5th year of Systems Engineering, focusing on resource optimizati
 
 ### 📌 [Campings Gestion System](https://github.com/ISI-ProyectoFinal-2026/Grupo8.git)
 - **The Context**: Manual entry systems cause delays and operational bottlenecks for facilities like clubs and camping sites.
-
 - **The Solution**: Developing a full-stack Minimum Viable Product integrating QR-based access protocols and Mercado Pago APIs for seamless entry and payment processing.
-
 - **Actionable Insight**: Modernizes facility logistics by digitizing revenue tracking and completely eliminating manual entry queues.
 
 ## 🛠️ Tech Stack
 
-*   **Machine Learning & Data Science:** Python, Scikit-Learn, XGBoost, Optuna, Pandas, K-Means, Pytorch, Tensorflow.
-*   **Data Engineering & MLOps:** Big Query, dbt (Gold Layer), FastAPI, Docker, GCP, GitHub Actions (CI/CD).
+*   **Machine Learning & Data Science:** Python, Scikit-Learn, XGBoost, Optuna, Pandas, PySpark, K-Means, Pytorch, Tensorflow.
+*   **Data Engineering & MLOps:** AWS (S3, Glue, IAM), Terraform (IaC), Big Query, dbt (Gold Layer), FastAPI, Docker, GCP, GitHub Actions (CI/CD).
 *   **Business Intelligence & Analytics:** Power BI (DAX, Star Schema, Gestalt Theory), SQL.
 
 ## 📫 Let's Connect
@@ -61,6 +63,11 @@ Actualmente curso el 5to año de Ingeniería en Sistemas, con foco en optimizaci
 
 ## 🚀 Proyectos Destacados (Insights e Impacto)
 
+### 📌 [Detección de Fraude en AWS - Arquitectura ML Serverless](https://github.com/ivanjcs/AWS-Fraud-Detection-ML-Pipeline)
+*   **El Problema:** El fraude con tarjetas de crédito representa una pérdida financiera masiva, pero detectarlo es complejo debido al desbalance extremo de clases (0.17% fraude) y el riesgo de fuga de información (data leakage) a gran escala.
+*   **La Solución:** Diseñé un pipeline de Machine Learning Serverless en AWS usando Terraform (IaC). Construí un Data Lake en S3 (Arquitectura Medallón) y utilicé AWS Glue (PySpark) para ETL distribuido, implementando prevención estricta de data leakage y aprendizaje sensible a costos nativo para XGBoost.
+*   **Información Accionable:** Proporciona un motor de detección altamente escalable y reproducible que identifica anomalías sin colapsar la memoria local, minimizando pérdidas financieras y optimizando los costos de infraestructura en la nube.
+
 ### 📌 [Predicción de Precios Inmobiliarios - Arquitectura ML End-to-End](https://github.com/ivanjcs/House-Prices-Prediction-End-to-End-ML-Architecture.git)
 *   **El Problema:** La valuación inmobiliaria sufre de alta volatilidad y sesgos manuales, lo que genera pérdidas por activos mal cotizados.
 *   **La Solución:** Diseñé un motor predictivo listo para producción usando XGBoost y Optimización Bayesiana (Optuna). Modelé pipelines limpios en BigQuery con dbt y desplegué endpoints de inferencia con FastAPI.
@@ -78,20 +85,12 @@ Actualmente curso el 5to año de Ingeniería en Sistemas, con foco en optimizaci
 
 ### 📌 [Sistema de gestion de campings](https://github.com/ISI-ProyectoFinal-2026/Grupo8.git)
 - **El Problema**: Los sistemas de ingreso manual causan demoras y cuellos de botella operativos en instalaciones como clubes y campings.
-
 - **La Solución**: Desarrollo de un Producto Mínimo Viable integrando protocolos de acceso basados en códigos QR y la API de Mercado Pago para procesar ingresos y pagos sin fricción.
-
 - **Información Accionable**: Modernización de la logística de las instalaciones, digitalizando el seguimiento de ingresos y eliminando por completo las filas de espera manuales.
 
 ## 🛠️ Stack Tecnológico
 
-*   **Machine Learning & Data Science:** Python, Scikit-Learn, XGBoost, Optuna, Pandas, K-Means, Pytorch, Tensorflow.
-*   **Data Engineering & MLOps:** Big Query, dbt (Capa Gold), FastAPI, Docker, GCP, GitHub Actions (CI/CD).
-*   **Business Intelligence & Análisis:** Power BI (DAX, Star Schema, Teoría de Gestalt), SQL.
-
-## 📫 Conectemos
-
-*   💼 [LinkedIn](https://www.linkedin.com/in/ivanjcs/)
-*   📧 [Email](mailto:ivancastro.dev@gmail.com)
-*   💻 [Portfolio]()
+*   **Machine Learning & Data Science:** Python, Scikit-Learn, XGBoost, Optuna, Pandas, PySpark, K-Means, Pytorch, Tensorflow.
+*   **Data Engineering & MLOps:** AWS (S3, Glue, IAM), Terraform (IaC), Big Query, dbt (Capa Gold), FastAPI, Docker, GCP, GitHub Actions (CI/CD).
+*   **Business Intelligence & Analytics:** Power BI (DAX, Star Schema, Gestalt Theory), SQL.
 
